@@ -15,7 +15,7 @@
 		<strong>Thumbnail Image:</strong>
 		<br/>
 		<img src="/thumbnail/{{ Session::get('imageName') }}" />
-		<a href="{{route('downloadPlease')}}">DownloadAwais</a>
+		<!--<a href="{{route('downloadPlease')}}">DownloadAwais</a>-->
 	</div>
 
 </div>
